@@ -18,7 +18,7 @@ Before running the server, you'll need to do the following:
 To start the server, run the following command from the project's directory:
 
 ```
-goCopy code
+go
 go run main.go
 ```
 

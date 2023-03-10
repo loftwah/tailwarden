@@ -2,6 +2,8 @@
 
 This project is a Golang implementation of an API that connects to an AWS account and exposes endpoints for managing Lambda functions. The API supports listing all Lambda functions across regions and searching for functions by runtime, tag, and region.
 
+![Tailwarden](updated-challenge/banner.jpg)
+
 ## Prerequisites
 
 Before running the server, you'll need to do the following:
